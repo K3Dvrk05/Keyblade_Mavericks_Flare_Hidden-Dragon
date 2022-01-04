@@ -1,0 +1,12 @@
+title: Keyblade Maverick's Flare over Hidden Dragon
+originalAuthor: K3Dvrk05
+description: Custom MAverick's Flare 3D Model Over Hidden Dragon
+assets:
+ - name: obj/W_EX010_40.mdlx
+   method: copy
+   source:
+     - name: obj/W_EX010_40.mdlx
+ - name: obj/W_EX010_40.a.fm
+   method: copy
+   source:
+     - name: obj/W_EX010_40.a.fm
